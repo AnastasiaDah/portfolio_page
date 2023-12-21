@@ -1,0 +1,19 @@
+.banner {
+    height: 80vh;
+    background-color: var(--black);
+    color: var(--white);
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.title {
+    width: 50%;
+    align-self: center;
+}
+
+.window {
+    width: 50%;
+    align-self: center;
+}

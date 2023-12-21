@@ -1,0 +1,19 @@
+.list {
+    list-style-type: none;
+}
+
+.li {
+    padding-bottom: 0.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    margin-right: 1rem;
+    height: 30px;
+    width: 30px;
+    background-color: var(--grayDark);
+    color: var(--white);
+    border-radius: 30px;
+    display: flex;
+}
